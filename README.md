@@ -11,3 +11,5 @@
 
 
  
+<h2>Rodando no seu pc :p </h2>
+Para utilizar esse código no seu pc, a unica coisa que precisa fazer, é baixar os arquivos, e executar o index que está dentro da página.
